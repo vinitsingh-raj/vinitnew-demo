@@ -1,3 +1,4 @@
 # vinitnew-demo
 This is my new repository
-author:vinit singh
+<br>
+author:vinit singh rajput
